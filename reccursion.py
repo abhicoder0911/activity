@@ -29,3 +29,4 @@ def by_three(number):
 # display result
 print(by_three(9))
 print(by_three(4))
+print()
